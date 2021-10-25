@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Trabalho em administração
 - 🌱 Estou Estudando HTML,CSS,JAVASCRIPT
-- ⚡ Nunca deixe que alguem diga que voçê nao consegue
+- ⚡ Nunca deixe que alguem diga que você nao consegue
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
