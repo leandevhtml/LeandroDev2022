@@ -1,4 +1,4 @@
-## Opa! Eu sou o Leandro Gonçalves
+## Opa! Eu sou o Leandro Gonçalves 🤙
 
 - 🔭 Hoje Trabalho em administração
 - 🌱 Estou Estudando HTML,CSS,JAVASCRIPT
