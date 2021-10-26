@@ -3,12 +3,16 @@
 - 🔭 Hoje Trabalho em administração
 - 🌱 Estou Estudando HTML / CSS / JAVASCRIPT
 - ⚡ Nunca deixe que alguem diga que você nao consegue
+
 ##
+
 <div>
   <a href="https://www.instagram.com/__gs011_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/leandro-gon%C3%A7alves-54540b1bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ 
+ ##
  
   <a href="https://github.com/r">
   
