@@ -1,8 +1,8 @@
-## Opa! Eu sou o Leandro Gonçalves 🤙
+## Hi! I'm Leandro Gonçalves 🤙
 
-- 🔭 Hoje Trabalho em administração
-- 🌱 Estou Estudando HTML / CSS / JAVASCRIPT
-- ⚡ Nunca deixe que alguem diga que você nao consegue
+- 🔭 Today I work in administration
+- 🌱 I'm Studying HTML / CSS / JAVASCRIPT
+- ⚡ Never let someone say you can't
 
 ##
 
